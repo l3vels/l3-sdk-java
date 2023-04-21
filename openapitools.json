@@ -3,5 +3,22 @@
   "spaces": 2,
   "generator-cli": {
     "version": "6.5.0"
-  }
+  },
+  "generatorName": "java",
+  "modelPackage": "com.l3vels.sdk.models",
+  "apiPackage": "com.l3vels.sdk.api",
+  "invokerPackage": "com.l3vels.sdk",
+  "groupId": "com.l3vels.sdk",
+  "artifactId": "l3vels-sdk-java",
+  "artifactVersion": "1.0.0-SNAPSHOT",
+  "library": "resttemplate",
+  "gitUserId": "l3vels",
+  "gitRepoId": "l3vels-sdk-java",
+  "artifactDescription": "L3vels SDK for Java",
+  "developerName": "L3vels",
+  "developerEmail": "dev@l3vels.xyz",
+  "developerOrganization": "L3vels",
+  "developerOrganizationUrl": "https://l3vels.xyz",
+  "licenseName": "MIT License",
+  "licenseUrl": "https://opensource.org/licenses/MIT"
 }
